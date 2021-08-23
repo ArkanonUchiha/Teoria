@@ -1,0 +1,16 @@
+.- Tomar en cuenta la propiedad "overflow: hidden | scroll"
+.- Tomar en cuenta que las imagenes suelen generar un espacio en blanco entre ella (la imagen) y el borde de la caja, esto se debe a que
+las imagenes por defecto son elementos "inline", y todo elemento que "inline" posee una propiedad intrinseca por default llamada "line-hight", por ejemplo
+las lineas de texto son elementos "inline" que poseen "line-height". Ahora, para poder quitar ese espacio en blanco al usar imagenes es usar "display:block"
+porque los elementos en bloque ya no tienen altura de linea.
+
+
+/* UN SENCILLO HACK PARA UTILIZAR MIENTRAS SE VA DESARROLLANDO EL PROYECTO */
+
+
+/* 
+	*{
+		outline: 1px solid red;
+	}
+
+*/

@@ -1,0 +1,26 @@
+{
+	"Reset CSS": {
+		"prefix": "get_CSS",
+		"body": [
+"html {",
+	"\tbox-sizing: border-box;",
+	"\tfont-family: sans-serif;",
+	"\tfont-size: 16px;",
+"}",
+
+"*,",
+"*:after,",
+"*:before {",
+	"\tpadding: 0;",
+	"\tmargin: 0;",
+	"\tbox-sizing: inherit;",
+"}",
+
+"img { max-width: 100%; display: block;}",
+
+"a { text-decoration: none; }",
+
+"li { list-style: none; }"
+		],
+		"description": "Lanza estilos para resetear elementos HTML."
+	}

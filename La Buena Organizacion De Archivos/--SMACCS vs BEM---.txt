@@ -1,0 +1,5 @@
+Es una buena idea y practica desarrollar tu proyecto usando estas 2 metodologias.
+
+.- SMACCS Sirve y se utiliza para organizar todos los archivos CSS en carpetas, para que haya una claro y sencillo desarrollo.
+
+.- BEM Sirve para definir las clases de los componentes HTML.

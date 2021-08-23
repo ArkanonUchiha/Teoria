@@ -1,0 +1,11 @@
+Sistemas De Columnas
+
+Existen frameworks que ayudan a crear paginas web rapidamente porque poseen un sistema de columnas que han creado. Por ejemplo: Bootstrap, foundation, grid360
+
+Pero, ¿como funcionan estos frameworks? No esta mal utilizar ese tipo de frameworks, lo que esta mal es no conocer el fundamento de un sistema de columnas.
+
+Las grillas, antiguamente, cuando no era RWD y cuando todo era PIXEL PERFECT en el mundo del diseño web, se hacian con margenes, por ejemplo: si tenias un sistema de 2 columnas, cada columna poseia un margin especifico para sus lados (izquierdo y derecho) y al encontrarse ambas columnas se sumaba el margin de una columna con el margin de la otra columna, y asi era como se generaban los espacios entre cada una de las columnas.
+
+Cuando llega la era del RWD, lo anterior ya no tiene sentido porque no se puede calcular la separacion exacta porque ya no se piensa en Pixele's sino en porcentajes, por ejemplo: Cuando posees 4 columnas piensas en que cada columna medira 25% del total de la ventana o contenedor.
+
+Lo primero que debe de hacerse es definir un ancho maximo para el contenedor total para que todo este alineado.

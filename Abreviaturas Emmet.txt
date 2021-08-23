@@ -1,0 +1,3 @@
+header.main-container>nav>ul>li*10>{item $}
+div.main-container*4>{Contenedor $}
+nav#main-menu.menu>ul>li*4>a{Enlace $}

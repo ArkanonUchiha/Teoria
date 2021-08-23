@@ -1,0 +1,39 @@
+Etiquetas semánticas y estructurales:
+
+    <section>: Contenido genérico estructurado.
+    <article>: Contenido estructural distribuible de manera independiente.
+    <aside>: Contenido secundario relacionado o que acompaña o complementa a otro.
+    <header>: Contenido introductorio suele tener elementos de navegación y encabezados (h1...h6).
+    <footer>: Sección que contiene información acerca del documento o página.
+    <nav>: Sección relativa a enlaces dentro del documento o página.
+    <main>: Contenido principal.
+    <figure>: Sección de contenido visual, múltiples medios.
+    <figcaption>: Leyenda o pié relativo al contenido visual de figure.
+
+
+Buenas Prácticas de Código HTML.
+Especificar:
+
+    Tipo de documento HTML5
+    Atributo de idioma
+    Juego de caractéres
+    Area de Visualización
+
+          <!DOCTYPE html>
+          <html lang='es-MX'>
+          <head>
+            <title></title>
+            <meta charset='UTF-8' />
+            <meta name='description' content='' />"
+            <meta name='viewport' content='width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1' />
+          </head>
+
+
+Definir:
+
+    Título único máx 65 caractéres
+    Descripción única máx 156 caractéres
+    Estilos antes de </head>
+    Scripts antes de </body>
+    NO Cerrar etiquetas únicas así <img src=" "> en vez de <img src=" "/>
+    Definir atributos booleanos así <input type="button" disabled> en vez de <input type="button" disabled="disabled">

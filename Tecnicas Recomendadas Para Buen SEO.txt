@@ -1,0 +1,26 @@
+HTML
+
+1) Ir usando encabezados descendentemente (h1-h6)
+
+2)El formato del texto se da con CSS, no con etiquetas HTML
+
+3)En lo posible usar MICRO DATOS
+
+4)Los marcadores de una pagina colocarlos en los encabezados (h1-h6)
+
+5) Las personalizaciones de las listas hacerlas con CSS
+
+6) Las tablas solo se usan para mostrar datos
+
+7)A las imágenes siempre colocarles un alt para que google permita hacer búsquedas
+
+8) Siempre re dimensionar las imágenes y después comprimirlas
+
+9) En el audio nunca darle el atributo auto play sin controles
+
+10)Los nombres de cada input marcarlos con un label
+
+11)Todos los input llevan name
+
+
+https://www.facebook.com/groups/comunidadEDteam/permalink/1982412985310039/?comment_id=1982415371976467

@@ -1,0 +1,19 @@
+1.- ARCHIVO DE ESTILOS BASE
+    Los aplicados a elementos HTML (no clases, no ID)
+    casi casi como un normalize
+    Inicializar tus estilos
+    
+2.- ARCHIVO DE ESTILOS DE TEMA
+    Look and feel de la web o aplicacion
+    Son los estilos personalizados propios de la web.
+
+3.- ARCHIVO DE ESTILOS DE ESTADOS
+    Cambios de estado .is-hide/.is-show
+    
+4.- ARCHIVO DE ESTILOS DE LAYOUT
+    Maquetacion, sin estilos de tema, por ejemplo, EDgrid.
+    Numero de columnas, medidas, etc.
+
+5.- ARCHIVO DE ESTILOS DE MODULOS
+    Los componentes que se repiten a lo largo de la aplicacion.
+    Botones, iconos,  widgets (son esos elementos que se repiten a lo largo de tu proyecto).

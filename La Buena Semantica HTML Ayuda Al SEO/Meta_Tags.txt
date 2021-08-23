@@ -1,0 +1,63 @@
+VIDEO POR VER: 10
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<meta name="description" content="Breve descripcion del contenido" />
+
+<!-- Para que en iOS una web parezca app -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<!-- default, black o black-traslucent -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+<link rel="apple-touch-startup-image" href="img/apple-touch-icon.png" />
+
+FAVICON
+www.convertico.com
+medida DESKTOPs: 16x16
+medida SMARTPHONES: 57x57
+medida SMARTPHONES RETINA DISPLAY: 120x120
+medida TABLETS: 76x76
+medida TABLETS RETINA DISPLAY: 152x15
+
+RECOMENDACION: AL HACER NUESTRO ICO O PNG, UTILIZAR SIEMPRE LA MEDIDA MAXIMA PARA NO ESTAR HACIENDO CADA MEDIDA QUE ANTERIORMENTE SE MUESTRAN.
+
+<link rel="shortcut icon"  type="image/x-icon" href="img/favicon.ico" />
+
+PARA QUE NUESTRO SITIO TENGA UN ICONO CUANDO SEA VISTA Y GUARDADA EN UN DISPOSITIVO MOBIL
+UN VECTOR NO SE PIXELEA, UNA IMAGEN SI. RECOMENDACION: USAR VECTOR
+
+<link rel="shortcut icon"  type="image/png" href="img/favicon.png" />
+
+<link rel="shortcut icon"  type="image/svg+xml" href="img/html5-logo.svg" />
+
+<link rel="apple-touch-icon" size="" href="img/apple-touch-icon.png" />
+
+VER: www.humanstxt.org
+
+MAPA DEL SITIO
+www.sitemaps.org
+www.xml-sitemaps.com
+<link rel="sitemap" type="application/xml" title="sitemap" href="sitemap.xml" />
+
+www.robotstxt.org
+deteresa.com/meta-robots
+
+<meta name="robots" content="index,follow" />
+
+www.browserdiet.com/es/
+RECOMENDACION: Colocar los script JS debajo de todo el contenido HTML, antes del cierre de la etiqueta </body>
+
+GUIA SOBRE BORDER
+http://lea.verou.me/humble-border-radius/#for-browser
+
+USAR FUENTES
+Cuando utilizemos fuentes que se encuentran en la nube, es recomendable importarlas a la hoja de estilo y desde alli utilizarlas, en lugar de estar declarando en cada script html la url de la fuente:
+
+En la hoja de estilos: @import url(http://);
+
+ENTENDER EMS Y REMS
+Por ejemplo:
+En font-size en ems, hereda el tamaño del elemento padre.
+En font-size en rems, hereda el tamaño del html.

@@ -1,0 +1,16 @@
+{
+	"AutoReload Browser": {
+		"prefix": "get_Reload",
+		"body": [
+"<script>",
+	"\t(function(){",
+	"\tsetIntertval(",
+	"\tfunction(){",
+  "document.location.reload()",
+  "\t},",
+  "\t1000)",
+  "\t})()",
+	"\t</script>"
+		],
+		"description": "Lanza una funcion para auto recargar el navegador. Colocarlo hasta el final del body."
+	}  
